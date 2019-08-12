@@ -1,0 +1,10 @@
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\bin\Debug\appEscritorio.exe.config
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\bin\Debug\appEscritorio.exe
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\bin\Debug\appEscritorio.pdb
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.csprojResolveAssemblyReference.cache
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.Form1.resources
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.Properties.Resources.resources
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.csproj.GenerateResource.cache
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.exe
+C:\Users\alejo\source\repos\ProyectoEntrega\appEscritorio\obj\Debug\appEscritorio.pdb
